@@ -1,1 +1,3 @@
-beans
+triangles
+facts
+umbrellas
