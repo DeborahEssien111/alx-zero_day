@@ -1,3 +1,1 @@
-triangles
-facts
-umbrellas
+shirt tea clock
